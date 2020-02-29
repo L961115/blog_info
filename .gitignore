@@ -1,0 +1,9 @@
+*.pyc 
+__pycache__ 
+*~ 
+.DS_Store 
+.vscode 
+.env 
+*.db 
+.coverage 
+htmlcov
